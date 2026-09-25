@@ -1,0 +1,13 @@
+{
+  "name": "gsx-check",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "GSX CHECK — Telegram device verification, manual payments and digital-store bot",
+  "scripts": {
+    "start": "netlify dev"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^10.0.0"
+  }
+}
